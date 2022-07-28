@@ -1,5 +1,5 @@
 # Sobre mim
-🖤 Meu nome é **Carolina** e estou estudando computação 🖤 ❀ Estudo em uma escola cívica militar ✿
+🖤 Meu nome é **Carolina** e estou estudando computação 🖤 ❀ Estudo em uma escola cívico militar ✿
 🌟 Estou aprendendo atualmente a programar jogos no Scratch e JavaScript 🌟
 🪐 Vocẽs podem me encontrar no https://instagram.com/herseyaw ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white) 
